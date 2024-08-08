@@ -2,6 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from forex_python.converter import CurrencyRates
 
+
 class CurrencyConverterGUI:
     def __init__(self, root):
         self.root = root
